@@ -3,7 +3,7 @@
 // own local files). Keep this in sync with principles.json by hand; Agent
 // B's test/copy.test.js checks that the two deep-equal.
 export const PRINCIPLES = {
-  "source": "https://github.com/uxrhimanshu/clicked-through",
+  "source": "https://github.com/uxhimanshuk/clicked-through",
   "note": "Every item_id must appear in vendor/coded.csv under the code given, and every quote must appear verbatim in that item's text. python3 check_trace.py enforces both.",
   "principles": [
     {

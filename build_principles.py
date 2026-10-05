@@ -9,7 +9,7 @@ spec = json.loads((ROOT / "principles.json").read_text())
 
 out = ["# Principles", "",
        "Seven principles, each resting on items coded in "
-       "[clicked-through](https://github.com/uxrhimanshu/clicked-through). "
+       "[clicked-through](https://github.com/uxhimanshuk/clicked-through). "
        "Every quote below is checked against the vendored corpus by "
        "`python3 check_trace.py`: the item exists, it carries the code shown, "
        "and the words appear in it verbatim.", "",

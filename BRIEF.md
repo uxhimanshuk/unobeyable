@@ -2,7 +2,7 @@
 
 ## Where this comes from
 
-[clicked-through](https://github.com/uxrhimanshu/clicked-through) studied what
+[clicked-through](https://github.com/uxhimanshuk/clicked-through) studied what
 technical people do when a security warning has no answer they can give. It set out
 to find a risk calculus (people who understand the warning and proceed anyway) and
 found mostly something else: warnings that cannot be obeyed.

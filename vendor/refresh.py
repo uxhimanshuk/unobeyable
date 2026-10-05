@@ -8,7 +8,7 @@ permalink, text) for the 76 coded items only. Author fields are not copied.
 """
 import base64, csv, io, json, pathlib, subprocess, sys
 
-REPO = "uxrhimanshu/clicked-through"
+REPO = "uxhimanshuk/clicked-through"
 HERE = pathlib.Path(__file__).parent
 
 
